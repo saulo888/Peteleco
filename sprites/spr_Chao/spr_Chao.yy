@@ -24,7 +24,7 @@
   "name":"spr_Chao",
   "nineSlice":{
     "$GMNineSliceData":"",
-    "bottom":5,
+    "bottom":0,
     "enabled":true,
     "guideColour":[4294902015,4294902015,4294902015,4294902015,],
     "highlightColour":1728023040,
@@ -40,7 +40,7 @@
       0,
       0,
     ],
-    "top":7,
+    "top":0,
   },
   "origin":0,
   "parent":{

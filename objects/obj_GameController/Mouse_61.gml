@@ -1,1 +1,1 @@
-rotacao += 5
+rotacao += 90

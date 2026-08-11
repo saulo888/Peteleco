@@ -2,7 +2,7 @@
   "$GMSprite":"v2",
   "%Name":"spr_Tutorial2",
   "bboxMode":0,
-  "bbox_bottom":111,
+  "bbox_bottom":136,
   "bbox_left":24,
   "bbox_right":288,
   "bbox_top":33,
