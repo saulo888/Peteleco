@@ -70,9 +70,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_Fase2","path":"rooms/rm_Fase2/rm_Fase2.yy",},},
     {"roomId":{"name":"rm_Menu","path":"rooms/rm_Menu/rm_Menu.yy",},},
     {"roomId":{"name":"rm_Fase1","path":"rooms/rm_Fase1/rm_Fase1.yy",},},
-    {"roomId":{"name":"rm_Fase2","path":"rooms/rm_Fase2/rm_Fase2.yy",},},
     {"roomId":{"name":"rm_Fase3","path":"rooms/rm_Fase3/rm_Fase3.yy",},},
     {"roomId":{"name":"rm_Fase4","path":"rooms/rm_Fase4/rm_Fase4.yy",},},
     {"roomId":{"name":"rm_Fase5","path":"rooms/rm_Fase5/rm_Fase5.yy",},},
