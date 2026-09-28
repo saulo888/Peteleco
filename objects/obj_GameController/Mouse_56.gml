@@ -22,7 +22,7 @@ if obj_Area.mouseArea then {
 
 	            with (peca)
 	            {
-	                var impulso = 8;
+	                var impulso = 10;
 
 	                physics_apply_impulse(
 	                    mouse_x,

@@ -4,6 +4,7 @@
     {"name":"Botoes","order":8,"path":"folders/Objects/Botoes.yy",},
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
     {"name":"Scripts","order":4,"path":"folders/Scripts.yy",},
+    {"name":"Sounds","order":5,"path":"folders/Sounds.yy",},
     {"name":"Sprites","order":3,"path":"folders/Sprites.yy",},
     {"name":"Escrita","order":8,"path":"folders/Sprites/Escrita.yy",},
   ],
