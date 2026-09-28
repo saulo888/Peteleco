@@ -34,6 +34,7 @@
     {"name":"spr_Peca_G","order":3,"path":"sprites/spr_Peca_G/spr_Peca_G.yy",},
     {"name":"spr_Peca_GG","order":4,"path":"sprites/spr_Peca_GG/spr_Peca_GG.yy",},
     {"name":"spr_Peca_M","order":2,"path":"sprites/spr_Peca_M/spr_Peca_M.yy",},
+    {"name":"spr_SetaCurva","order":11,"path":"sprites/spr_SetaCurva/spr_SetaCurva.yy",},
     {"name":"spr_Tutorial0","order":5,"path":"sprites/spr_Tutorial0/spr_Tutorial0.yy",},
     {"name":"spr_Tutorial1_1","order":3,"path":"sprites/spr_Tutorial1_1/spr_Tutorial1_1.yy",},
     {"name":"spr_Tutorial1","order":2,"path":"sprites/spr_Tutorial1/spr_Tutorial1.yy",},
