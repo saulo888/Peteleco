@@ -8,3 +8,6 @@ rotacao = 0
 mao_estado = 0; //0 = parada, 1= pressionando, 2= soltando
 
 
+if !audio_is_playing(snd_MusicaTema) then audio_play_sound(snd_MusicaTema, 0, 1)
+
+
